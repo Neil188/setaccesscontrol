@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`accessControl default data 1`] = `
+Array [
+  Object {
+    "isThrow": false,
+    "value": Object {
+      "str1": "Access-Control-Allow-Origin",
+      "str2": "",
+    },
+  },
+  Object {
+    "isThrow": false,
+    "value": Object {
+      "str1": "Access-Control-Allow-Methods",
+      "str2": "GET",
+    },
+  },
+  Object {
+    "isThrow": false,
+    "value": Object {
+      "str1": "Access-Control-Allow-Headers",
+      "str2": "Content-Type",
+    },
+  },
+  Object {
+    "isThrow": false,
+    "value": Object {
+      "str1": "Access-Control-Max-Age",
+      "str2": "3600",
+    },
+  },
+]
+`;
+
+exports[`accessControl sets res object correctly 1`] = `
+Array [
+  Object {
+    "isThrow": false,
+    "value": Object {
+      "str1": "Access-Control-Allow-Origin",
+      "str2": "default",
+    },
+  },
+  Object {
+    "isThrow": false,
+    "value": Object {
+      "str1": "Access-Control-Allow-Methods",
+      "str2": "GET",
+    },
+  },
+  Object {
+    "isThrow": false,
+    "value": Object {
+      "str1": "Access-Control-Allow-Headers",
+      "str2": "Content-Type",
+    },
+  },
+  Object {
+    "isThrow": false,
+    "value": Object {
+      "str1": "Access-Control-Max-Age",
+      "str2": "3600",
+    },
+  },
+]
+`;
