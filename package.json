@@ -11,9 +11,9 @@
     "author": "N Lupton",
     "license": "MIT",
     "devDependencies": {
-        "@neil188/eslint-config": "^1.4.1",
-        "eslint": "^5.8.0",
-        "jest": "^23.6.0"
+        "@neil188/eslint-config": "^1.8.1",
+        "eslint": "^5.16.0",
+        "jest": "^24.8.0"
     },
     "engines": {
         "node": "8.11.x",

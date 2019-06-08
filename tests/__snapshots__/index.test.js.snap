@@ -3,28 +3,28 @@
 exports[`accessControl default data 1`] = `
 Array [
   Object {
-    "isThrow": false,
+    "type": "return",
     "value": Object {
       "str1": "Access-Control-Allow-Origin",
       "str2": "",
     },
   },
   Object {
-    "isThrow": false,
+    "type": "return",
     "value": Object {
       "str1": "Access-Control-Allow-Methods",
       "str2": "GET",
     },
   },
   Object {
-    "isThrow": false,
+    "type": "return",
     "value": Object {
       "str1": "Access-Control-Allow-Headers",
       "str2": "Content-Type",
     },
   },
   Object {
-    "isThrow": false,
+    "type": "return",
     "value": Object {
       "str1": "Access-Control-Max-Age",
       "str2": "3600",
@@ -36,28 +36,28 @@ Array [
 exports[`accessControl sets res object correctly 1`] = `
 Array [
   Object {
-    "isThrow": false,
+    "type": "return",
     "value": Object {
       "str1": "Access-Control-Allow-Origin",
       "str2": "default",
     },
   },
   Object {
-    "isThrow": false,
+    "type": "return",
     "value": Object {
       "str1": "Access-Control-Allow-Methods",
       "str2": "GET",
     },
   },
   Object {
-    "isThrow": false,
+    "type": "return",
     "value": Object {
       "str1": "Access-Control-Allow-Headers",
       "str2": "Content-Type",
     },
   },
   Object {
-    "isThrow": false,
+    "type": "return",
     "value": Object {
       "str1": "Access-Control-Max-Age",
       "str2": "3600",
