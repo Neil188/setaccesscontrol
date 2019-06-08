@@ -1,6 +1,6 @@
 {
     "name": "@neil188/setaccesscontrol",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Header access control settings for CORS",
     "main": "index.js",
     "scripts": {
